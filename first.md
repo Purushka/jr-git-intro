@@ -1,0 +1,1 @@
+Inside your local repo, create a new file called ‘first.md’ and add some text to it. Commit the change to your local using the commit message “JR-101: Set up the first file”.
